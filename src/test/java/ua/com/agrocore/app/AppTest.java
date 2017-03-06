@@ -44,23 +44,5 @@ public class AppTest extends TestCase {
             System.out.print(i + " ");
             System.out.println(allDistances[i]);
         }
-
-                //new double[list.getNumGeometries() - 1];
-
-
-//        for(int index = 0; index < list.getNumGeometries() - 1; index++){
-//            final Geometry geometry = list.getGeometryN(index);
-//            Point point = (Point) list.getGeometryN(index);
-//            Point pointN = (Point) list.getGeometryN(index + 1);
-//            System.out.println(point.distance(pointN));
-//        }
-
-
-
-
     }
-
-
-
-
 }
